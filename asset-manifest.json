@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SantoChat/static/css/main.762c4ca3.css",
+    "main.js": "/SantoChat/static/js/main.24792c7f.js",
+    "static/js/787.c019049b.chunk.js": "/SantoChat/static/js/787.c019049b.chunk.js",
+    "index.html": "/SantoChat/index.html",
+    "main.762c4ca3.css.map": "/SantoChat/static/css/main.762c4ca3.css.map",
+    "main.24792c7f.js.map": "/SantoChat/static/js/main.24792c7f.js.map",
+    "787.c019049b.chunk.js.map": "/SantoChat/static/js/787.c019049b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762c4ca3.css",
+    "static/js/main.24792c7f.js"
+  ]
+}
